@@ -40,3 +40,6 @@
 3. Set up your environment variables:
   - Copy the .env.example file and rename it to .env.
   - Add your actual API key to the .env file: GOOGLE_API_KEY=your_actual_api_key_here
+
+---
+_Developed for XRCC Online 2025. Focused on prompt engineering, API integration, and CLI user experience design._
