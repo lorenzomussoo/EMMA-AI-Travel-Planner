@@ -12,8 +12,8 @@
 
 ## 📸 Application Showcase
 
-* **Welcome & Input:** ![Welcome Screen](screenshots/01_-_welcome_screen.png)
-* **Generating Itinerary:** ![Itinerary](screenshots/03_-_itinerary_generation.png)
+* **Welcome & Input:** ![Welcome Screen](screenshots/01 - welcome screen.png)
+* **Generating Itinerary:** ![Itinerary](screenshots/03 - itinerary generation.png)
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3
