@@ -1,4 +1,4 @@
-# EMMA AI - Your Personal Travel Agent ✈️🌍
+# EMMA AI - Your Personal Travel Agent ✈️🌍 
 
 **EMMA** (Expert, Motivated, and Meticulous Assistant) is an interactive, CLI-based AI agent designed to generate highly personalized travel itineraries. Developed for XRCC Online 2025, this tool leverages the power of the Google Gemini API to craft detailed day-by-day plans, complete with accommodation suggestions and transport advice.
 
